@@ -1,0 +1,12 @@
+E:\SCHOOL\7mi sem\PPI\PPIProj\Services\bin\Debug\netcoreapp3.1\Services.deps.json
+E:\SCHOOL\7mi sem\PPI\PPIProj\Services\bin\Debug\netcoreapp3.1\Services.dll
+E:\SCHOOL\7mi sem\PPI\PPIProj\Services\bin\Debug\netcoreapp3.1\Services.pdb
+E:\SCHOOL\7mi sem\PPI\PPIProj\Services\bin\Debug\netcoreapp3.1\Data.dll
+E:\SCHOOL\7mi sem\PPI\PPIProj\Services\bin\Debug\netcoreapp3.1\Data.pdb
+E:\SCHOOL\7mi sem\PPI\PPIProj\Services\obj\Debug\netcoreapp3.1\Services.csprojAssemblyReference.cache
+E:\SCHOOL\7mi sem\PPI\PPIProj\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+E:\SCHOOL\7mi sem\PPI\PPIProj\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfo.cs
+E:\SCHOOL\7mi sem\PPI\PPIProj\Services\obj\Debug\netcoreapp3.1\Services.csproj.CoreCompileInputs.cache
+E:\SCHOOL\7mi sem\PPI\PPIProj\Services\obj\Debug\netcoreapp3.1\Services.csproj.CopyComplete
+E:\SCHOOL\7mi sem\PPI\PPIProj\Services\obj\Debug\netcoreapp3.1\Services.dll
+E:\SCHOOL\7mi sem\PPI\PPIProj\Services\obj\Debug\netcoreapp3.1\Services.pdb

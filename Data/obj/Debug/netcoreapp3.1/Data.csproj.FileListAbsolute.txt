@@ -1,0 +1,9 @@
+E:\SCHOOL\7mi sem\PPI\PPIProj\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+E:\SCHOOL\7mi sem\PPI\PPIProj\Data\bin\Debug\netcoreapp3.1\Data.dll
+E:\SCHOOL\7mi sem\PPI\PPIProj\Data\bin\Debug\netcoreapp3.1\Data.pdb
+E:\SCHOOL\7mi sem\PPI\PPIProj\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+E:\SCHOOL\7mi sem\PPI\PPIProj\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+E:\SCHOOL\7mi sem\PPI\PPIProj\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+E:\SCHOOL\7mi sem\PPI\PPIProj\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+E:\SCHOOL\7mi sem\PPI\PPIProj\Data\obj\Debug\netcoreapp3.1\Data.dll
+E:\SCHOOL\7mi sem\PPI\PPIProj\Data\obj\Debug\netcoreapp3.1\Data.pdb
